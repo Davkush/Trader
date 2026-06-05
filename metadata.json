@@ -1,0 +1,6 @@
+{
+  "name": "Split-Screen Trading Terminal",
+  "description": "Multi-chart interactive trading terminal with lightweight charts, bar replay, visual trading lines, draw elements, live crypto websocket feed, and backtesting statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
